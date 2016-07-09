@@ -45,7 +45,7 @@ header{ display:block}
 @media(min-width: 1000px){
 .pao_top{width:100%; display:block;background: url(../images/top.png) no-repeat; background-size: cover;height:auto;}
 
-/*****第二部分***/
+/*****第二部分*****/
 .pao_part{ width:100%; height:500px; display:block;}
 .p_left{width:33%;height:500px;float:left;position:relative;}
 .p_right{width:33%;height:500px;float:left;position:relative;}
